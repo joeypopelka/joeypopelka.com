@@ -66,6 +66,12 @@ nav a:hover {
   width: auto;
 }
 
+@media (max-width: 640px) {
+  .header-image {
+    display: none;
+  }
+}
+
 .divider {
   margin: 36px 56px 0;
   height: 1px;
