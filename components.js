@@ -19,7 +19,9 @@ document.getElementById('site-header').innerHTML = `
         </nav>
       </div>
       <div class="header-image">
-        <img src="Coonley Combo.png" alt="Coonley Playhouse window">
+        <a href="https://www.moma.org/collection/works/1536" target="_blank" rel="noopener noreferrer">
+          <img src="Coonley Combo.png" alt="Coonley Playhouse window">
+        </a>
       </div>
     </div>
     <div class="divider"></div>
