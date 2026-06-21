@@ -11,8 +11,7 @@ document.getElementById('site-header').innerHTML = `
       </nav>
     </div>
     <div class="header-image">
-      <img src="Coonley Left.png" alt="Coonley Playhouse window left">
-      <img src="Coonley Right.png" alt="Coonley Playhouse window right">
+      <img src="Coonley Combo.png" alt="Coonley Playhouse window">
     </div>
   </div>
   <div class="divider"></div>
